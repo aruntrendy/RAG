@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🤖 LangGraph RAG Chatbot (Ollama + FAISS)")
+st.title("LangGraph RAG Chatbot (Ollama + FAISS)")
 st.caption("Orchestration via LangGraph. Powered by Deepseek-R1 & nomic-embed-text.")
 
 # --- Session State Initialization ---
